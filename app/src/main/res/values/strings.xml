@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Spotify Streamer</string>
+    <string name="tracks_activity_label">Top 10 Tracks</string>
+
+    <string name="search_placeholder">Enter an artist name</string>
+    <string name="artist_not_found_message">Artist was not found. Please enter a different name</string>
+    <string name="no_tracks_found_message">No Tracks were found for the selected artist. Please try a different artist</string>
+
+    <string name="unknown_artist">Unknown</string>
+</resources>
